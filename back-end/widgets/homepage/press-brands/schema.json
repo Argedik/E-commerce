@@ -1,0 +1,30 @@
+[
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=bloomberg",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/bloomberg.jpg?v=4"
+	},
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=show",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/show.jpg?v=4"
+	},
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=marketing",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/marketing-turlkiye-home.png?v=2"
+	},
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=hurriyet",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/hurriyet.jpg?v=4"
+	},
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=dd.jpg?v=1",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/dunya.jpg?v=4"
+	},
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=haberturk",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/haberturk.jpg?v=4"
+	},
+	{
+		"url": "https://www.mealbox.com.tr/basinda?haber=al-jazeera",
+		"image": "https://www.mealbox.com.tr/uploads/media/news/logo/aljazeera.jpg?v=4"
+	}
+]
