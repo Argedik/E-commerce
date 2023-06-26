@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/dist/
+front-end/style.scss
+front-end/style.css.map
+
+# debug
+package-lock.json
+yarn.lock
+
+# local env files
+.env
+
