@@ -1,0 +1,124 @@
+{
+	"header": {
+		"phone": "0850 532 60 62",
+		"drop_down": [
+			{
+				"title": "Hesabım",
+				"url": "/calendar/month/autoredirect"
+			},
+			{
+				"title": "Abonelik Bilgilerim",
+				"url": "/user/abonelik"
+			},
+			{
+				"title": "Çıkış Yap",
+				"url": "/user/logout"
+			}
+		],
+		"icons": [
+			{
+				"img": "https://mealbox.com.tr/assets/mealbox/img/header-phone.svg",
+				"url": "tel:0850 532 60 62"
+			},
+			{
+				"img": "https://mealbox.com.tr/assets/mealbox/img/header-nav-whatsapp.svg",
+				"url": "https://api.whatsapp.com/send?phone=+905498062701&amp;text=Merhaba, Meal Box hizmetleri hakkında bilgi almak istiyorum.&amp;conversion=home"
+			},
+			{
+				"img": "https://mealbox.com.tr/assets/mealbox/img/header-person.svg",
+				"url": ""
+			},
+			{
+				"img": "https://mealbox.com.tr/assets/mealbox/img/header-bucket.svg",
+				"url": ""
+			}
+		]
+	},
+	"navbar": {
+		"url": "https://www.mealbox.com.tr/",
+		"img": "https://mealbox.com.tr/uploads/siteconfig/meal-box-logo.png",
+		"tab": [
+			{
+				"title": "KURUMSAL",
+				"content": [
+					{
+						"title": "KURUMSAL",
+						"sub_title": "Kurumsal Yemek Çözümleri",
+						"description": "İş yerinize en uygun fiyat ve modelle kurumsal düzenli yemek hizmeti.",
+						"btn": "BİLGİ AL",
+						"url": "/kurumsal-catering",
+						"images": [
+							{
+								"url": "/abonelik ",
+								"img": "https://mealbox.com.tr/uploads/media/banners/header/kurumsal-header-1.jpg",
+								"text": "Porselen Tabak Sunumuyla Taşıma Yemek"
+							},
+							{
+								"url": "/abonelik",
+								"img": "https://mealbox.com.tr/uploads/media/banners/header/kurumsal-header-2.jpg",
+								"text": "Paket Sunumuyla Taşıma Yemek"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "BİREYSEL",
+				"content": [
+					{
+						"title": "BİREYSEL",
+						"sub_title": "Evde Gurme Yemek Paketleri",
+						"description": "",
+						"btn": "SATIN AL",
+						"url": "/evdekal-yemek-paketi",
+						"images": [
+							{
+								"url": "/evdekal-yemek-paketi ",
+								"img": "https://mealbox.com.tr/uploads/media/banners/header/evde-yemek.jpg?v=2",
+								"text": "Evde Gurme Yemek Paketleri"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "ETKİNLİK / ORGANİZASYON",
+				"content": [
+					{
+						"title": "ETKİNLİK / ORGANİZASYON",
+						"sub_title": "Etkinlikleriniz ve toplantılarınız için aradığınız kaliteli toplu yemek hizmeti",
+						"description": "",
+						"btn": "TEKLİF AL",
+						"url": "/catering",
+						"images": [
+							{
+								"url": "/catering ",
+								"img": "https://mealbox.com.tr/uploads/media/banners/header/etkinlik.jpg",
+								"text": "Etkinlik / Organizasyon"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "SOSYAL SORUMLULUK",
+				"content": [
+					{
+						"title": "SOSYAL SORUMLULUK",
+						"sub_title": "Etkinlikleriniz ve toplantılarınız için aradığınız kaliteli toplu yemek hizmeti",
+						"description": "",
+						"btn": "Askıya Yemek Bırak",
+						"url": "/https://askidayemek.net/",
+						"images": [
+							{
+								"url": "/https://askidayemek.net/",
+								"img": "https://mealbox.com.tr/uploads/media/banners/header/askida-yemek.jpg",
+								"text": "Askıda Yemek Var"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

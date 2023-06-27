@@ -1,0 +1,58 @@
+{
+	"tabs": [
+		{
+			"title": "Bizimle İletişime Geçin",
+			"urls": [
+				{ "title": "İletişim", "url": "https://www.mealbox.com.tr/iletisim" },
+				{ "title": "İnsan Kaynakları", "url": "https://www.mealbox.com.tr/ik" }
+			]
+		},
+		{
+			"title": "Hizmetlerimiz",
+			"urls": [
+				{ "title": "Kurumsal Yemek Aboneliği", "url": "/abonelik" },
+				{ "title": "Ofise Sıcak Yemek Aboneliği", "url": "/abonelik" },
+				{ "title": "Etkinlik / Organizasyon", "url": "/catering" },
+				{ "title": "Evde Yemek Paketi", "url": "/evdekal-yemek-paketi" }
+			]
+		},
+		{
+			"title": "Hakkımızda",
+			"urls": [
+				{ "title": "Hakkımızda", "url": "/hakkimizda" },
+				{ "title": "Basında", "url": "/basinda" },
+				{ "title": "Yorumlar", "url": "/yorumlar" },
+				{ "title": "Deneyim", "url": "/pages/deneyim" },
+				{ "title": "S.S.S", "url": "/https://www.mealbox.com.tr/sss" },
+				{ "title": "KVKK Bildirimi", "url": "/pages/gizlilik" },
+				{ "title": "Sertifikalar", "url": "/pages/sertifikalar" }
+			]
+		},
+		{
+			"img_url": "https://www.mealbox.com.tr",
+			"img": "/assets/mealbox/img/footer-logo.png?v=4",
+			"urls": [
+				{
+					"title": "Facebook",
+					"img": "sprite_img footer_facebook",
+					"url": "https://facebook.com/MealBoxTR"
+				},
+				{
+					"title": "Twitter",
+					"img": "sprite_img footer_twitter",
+					"url": "https://twitter.com/MealBoxTR"
+				},
+				{
+					"title": "Instagram",
+					"img": "sprite_img footer_instagram",
+					"url": "https://instagram.com/mealboxtr"
+				},
+				{
+					"title": "Linkedin",
+					"img": "sprite_img footer_linkedin",
+					"url": "https://tr.linkedin.com/company/mealboxtr"
+				}
+			]
+		}
+	]
+}

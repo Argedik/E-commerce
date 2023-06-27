@@ -9,7 +9,11 @@
 		"strict": true,
 		"esModuleInterop": true
 	},
-	"include": ["./back-end/**/*.ts", "./front-end/**/*.ts"],
+	"include": [
+		"./back-end/**/*.ts",
+		"./front-end/**/*.ts",
+		"back-end/widgets/homepage/main-carousel.js"
+	],
 	"exclude": ["node_modules"],
 	"types": ["express"]
 }

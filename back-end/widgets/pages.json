@@ -1,0 +1,127 @@
+[
+	{
+		"title": "Kapıya Yemek Servisi",
+		"page": "homepage",
+		"url": "https://www.mealbox.com.tr/"
+	},
+	{
+		"title": "Kurumsal",
+		"page": "institutional",
+		"url": "https://www.mealbox.com.tr/kurumsal-catering"
+	},
+	{
+		"title": "Evde Yemek Paketi",
+		"page": "individual",
+		"url": "https://www.mealbox.com.tr/evdekal-yemek-paketi"
+	},
+	{
+		"title": "Catering",
+		"page": "catering",
+		"url": "https://www.mealbox.com.tr/catering"
+	},
+	{
+		"title": "Askıda Yemek",
+		"page": "social-responsibility",
+		"url": "https://askidayemek.net/"
+	},
+	{
+		"title": "İletişim",
+		"page": "Contact",
+		"url": "https://www.mealbox.com.tr/iletisim"
+	},
+	{
+		"title": "ik",
+		"page": "hr",
+		"url": "https://www.mealbox.com.tr/ik"
+	},
+	{
+		"title": "MealBox",
+		"page": "about-us",
+		"url": "https://www.mealbox.com.tr/hakkimizda"
+	},
+	{
+		"title": "MealBox",
+		"page": "press",
+		"url": "https://www.mealbox.com.tr/basinda"
+	},
+	{
+		"title": "yorumlar",
+		"page": "comments",
+		"url": "https://www.mealbox.com.tr/yorumlar"
+	},
+	{
+		"title": "deneyim",
+		"page": "experience",
+		"url": "https://www.mealbox.com.tr/pages/deneyim"
+	},
+	{
+		"title": "sss",
+		"page": "sss",
+		"url": "https://www.mealbox.com.tr/sss"
+	},
+	{
+		"title": "gizlilik",
+		"page": "pdri",
+		"url": "https://www.mealbox.com.tr/pages/gizlilik"
+	},
+	{
+		"title": "sertifikalar",
+		"page": "certificates",
+		"url": "https://www.mealbox.com.tr/pages/sertifikalar"
+	},
+	{
+		"title": "login",
+		"page": "login",
+		"url": "https://www.mealbox.com.tr/login"
+	},
+	{
+		"title": "register",
+		"page": "register",
+		"url": "https://www.mealbox.com.tr/register"
+	},
+	{
+		"title": "profil",
+		"page": "profile",
+		"url": "https://www.mealbox.com.tr/user/profil"
+	},
+	{
+		"title": "Gönderi Planı",
+		"page": "calendar",
+		"url": "https://www.mealbox.com.tr/calendar/month/autoredirect"
+	},
+	{
+		"title": "adres",
+		"page": "address",
+		"url": "https://www.mealbox.com.tr/user/adres"
+	},
+	{
+		"title": "ekstre",
+		"page": "receipt",
+		"url": "https://www.mealbox.com.tr/user/profil/ekstre"
+	},
+	{
+		"title": "Faturalar",
+		"page": "bills",
+		"url": "https://www.mealbox.com.tr/user/profil/faturalar"
+	},
+	{
+		"title": "kartlar",
+		"page": "cards",
+		"url": "https://www.mealbox.com.tr/user/kartlar"
+	},
+	{
+		"title": "payments",
+		"page": "paying",
+		"url": "https://www.mealbox.com.tr/user/odemeler"
+	},
+	{
+		"title": "abonelik",
+		"page": "subscribe",
+		"url": "https://www.mealbox.com.tr/user/abonelik"
+	},
+	{
+		"title": "destek",
+		"page": "help",
+		"url": "https://www.mealbox.com.tr/user/destek"
+	}
+]

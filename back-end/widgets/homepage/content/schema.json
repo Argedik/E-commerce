@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Kurumsal Sıcak Öğle Yemeği Hizmeti",
+		"url": "/abonelik",
+		"description": "İş yerinizin güvenli kurumsal yemek çözümü. Hijyenik mutfakta pişirilmiş şef yemeklerini, kurumunuza en uygun olan modelle sunan gurme yemek servisi hizmetidir.",
+		"card_background_img": "https://www.mealbox.com.tr/uploads/homepage/sya-home-vitrin.gif?v=6",
+		"card_title": "Kurumsal Yemek Hizmeti",
+		"card_description": "Taşıma yemek, paket yemek, yerinde yemek üretimi hizmetlerimizle, şef yemeklerini iş yerinize getiriyoruz.",
+		"card_contact_btn": {
+			"text": "Hemen Ulaş",
+			"phone_url": "tel:0850 532 60 62",
+			"phone_img": "https://mealbox.com.tr/assets/mealbox/img/main_phone.svg",
+			"phone": "0850 532 60 62",
+			"social_media": "WhatsApp",
+			"social_url": "https://api.whatsapp.com/send?phone=+905498062701&amp;text=Merhaba, Meal Box Kurumsal Yemek Hizmeti hakkında bilgi almak istiyorum.&amp;conversion=home",
+			"social_img": "https://mealbox.com.tr/assets/mealbox/img/main_whatsapp.svg"
+		},
+		"card_offer_btn": "Teklif Al"
+	},
+	{
+		"title": "Evde Yemek Paketi",
+		"url": "/evdekal-yemek-paketi",
+		"description": "Evden çalışanlar ve evde her zaman lezzetli yemeğim olsun diyenler için 2 kişilik gurme öğle ve akşam yemeği menüsü 6 çeşit, 12 tabak yemek içerir.",
+		"card_background_img": "https://www.mealbox.com.tr/uploads/homepage/banner-evdekal-img.jpg?v=6",
+		"card_title": "Evde Yemek Paketi",
+		"card_description": "Evde ne yiyeceğim diye düşünme! 2 kişilik gurme öğlen ve akşam yemeği 199 lira  dan başlayan fiyatlarla.",
+		"card_contact_btn": {
+			"text": "Hemen Ulaş",
+			"phone_url": "tel:0850 532 60 62",
+			"phone_img": "https://mealbox.com.tr/assets/mealbox/img/main_phone.svg",
+			"phone": "0850 532 60 62",
+			"social_media": "WhatsApp",
+			"social_url": "https://api.whatsapp.com/send?phone=+905498062701&amp;text=Merhaba, Meal Box Kurumsal Yemek Hizmeti hakkında bilgi almak istiyorum.&amp;conversion=home",
+			"social_img": "https://mealbox.com.tr/assets/mealbox/img/main_whatsapp.svg"
+		},
+		"card_offer_btn": "Hemen Al"
+	},
+	{
+		"title": "Etkinlik / Organizasyon",
+		"url": "/catering",
+		"description": "Meal Box Etkinlik Catering Her Yerde Sizinle",
+		"card_background_img": "https://www.mealbox.com.tr/uploads/homepage/yatay-bar-catering.jpg?v=6",
+		"card_title": "Etkinlik / Organizasyon",
+		"card_description": "Etkinlikleriniz ve toplantılarınız için aradığınız kaliteli toplu yemek hizmeti",
+		"card_contact_btn": {
+			"text": "Hemen Ulaş",
+			"phone_url": "tel:0850 532 60 62",
+			"phone_img": "https://mealbox.com.tr/assets/mealbox/img/main_phone.svg",
+			"phone": "0850 532 60 62",
+			"social_media": "WhatsApp",
+			"social_url": "https://api.whatsapp.com/send?phone=+905498062701&amp;text=Merhaba, Meal Box Kurumsal Yemek Hizmeti hakkında bilgi almak istiyorum.&amp;conversion=home",
+			"social_img": "https://mealbox.com.tr/assets/mealbox/img/main_whatsapp.svg"
+		},
+		"card_offer_btn": "Hemen Al"
+	},
+	{
+		"title": "Askıda Yemek Var",
+		"url": "https://askidayemek.net/",
+		"description": "Askıya yemek bırakarak ihtiyaç sahiplerine destek olabilirsiniz.",
+		"card_background_img": "https://www.mealbox.com.tr/uploads/homepage/askida-yemek-home-banner.jpg?v=1",
+		"card_title": "Askıda Yemek Var",
+		"card_description": "Askıya bırakılan öğün sayısı 40.000'e öğüne ulaştı. Askıya siz de yemek bırakarak iyiliği çoğaltabilirsiniz.",
+		"card_contact_btn": {
+			"text": "Hemen Ulaş",
+			"phone_url": "tel:0850 532 60 62",
+			"phone_img": "https://mealbox.com.tr/assets/mealbox/img/main_phone.svg",
+			"phone": "0850 532 60 62",
+			"social_media": "WhatsApp",
+			"social_url": "https://api.whatsapp.com/send?phone=+905498062701&amp;text=Merhaba, Meal Box Kurumsal Yemek Hizmeti hakkında bilgi almak istiyorum.&amp;conversion=home",
+			"social_img": "https://mealbox.com.tr/assets/mealbox/img/main_whatsapp.svg"
+		},
+		"card_offer_btn": "Askıya Yemek Bırak"
+	}
+]

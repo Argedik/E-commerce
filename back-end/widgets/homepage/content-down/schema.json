@@ -1,0 +1,103 @@
+[
+	{
+		"how_it_works": {
+			"title": "Nasıl Çalışır?",
+			"tabs": [
+				{
+					"title": "Kurumsal Yemek Servisi",
+					"url": "#kurumsal-yemek-servisi",
+					"content": [
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-14.png",
+							"title": "1. Adım",
+							"description": "Telefonda ön görüşme, arkasından yüz yüze görüşme ile hizmet modeli belirlenir. Yerinde üretim, porselen kaplarda ya da bireysel paketli şekilde taşıma yemek hizmeti verilir. Menüler, kişi sayısı, teslimat günleri ve şekli belirlenir."
+						},
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-25.png",
+							"title": "2. Adım",
+							"description": "Gurme yemeklerden oluşan, hiçbir katkı maddesi içermeyen ve her gün değişen 4 farklı şef menüsü güvenli ve sağlıklı şekilde gönderime hazırlanır."
+						},
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-36.png",
+							"title": "3. Adım",
+							"description": "Sıcaklığı 3 saate kadar koruyan özel termo kutular ile yemekleriniz iş yerinize ulaştırılır. Anlaşmaya göre, yemekhanenizde özenle porselen kaplarda öğle yemeği saatinde sunulur ya da özel paketlenmiş kullan-at kaplarda ve termokutularda iş yerinize bırakılır."
+						}
+					]
+				},
+				{
+					"title": "Diyet (Fit) ve Protein Beslenme Paketleri",
+					"url": "#diyet-fit-ve-protein-beslenme-paketleri",
+					"content": [
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-14.png",
+							"title": "1. Adım",
+							"description": "Beslenme uzmanlarımızın desteğiyle, ihtiyacınıza ve hassasiyetlerinize uygun olarak sizin için ideal abonelik programı oluşturulur ve aboneliğiniz 2 iş günü içinde başlar."
+						},
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-25.png",
+							"title": "2. Adım",
+							"description": "Günlük 4 ya da 5 öğün (2/3 ana + 2 ara öğün) yemeğiniz, kalori ihtiyacınıza uygun olarak hazırlanır."
+						},
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-36.png",
+							"title": "3. Adım",
+							"description": "Yemekleriniz sağlıklı ve kişiye özel kullan-at kaplarda, her gün belirttiğiniz adrese tercihiniz doğrultusunda sabah 7.00 - 8.30 veya 8.30 - 10.00 saatleri arasında teslim edilir."
+						}
+					]
+				},
+				{
+					"title": "Evde Yemek Paketi",
+					"url": "#evde-yemek-paketi",
+					"content": [
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-14.png",
+							"title": "1. Adım",
+							"description": "Evde Yemek Paketi 2 kişilik setler halinde satın alınabilir. Günün menülerini inceleyip, beğendiğiniz kadar gün satın alabilirsiniz."
+						},
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-25.png",
+							"title": "2. Adım",
+							"description": "Paketlerin içeriğinde 12 çeşit yemek bulunuyor. Bunların 4 tanesi ana yemek, 6 tanesi yardımcı yemek ve 2 tanesi atıştırmalıktır."
+						},
+						{
+							"img": "https://mealbox.com.tr/uploads/homepage/hiw-image-36.png",
+							"title": "3. Adım",
+							"description": "Yemekleriniz sağlıklı ve kişiye özel kullan-at kaplarda, satın aldığınız menünün gününde sabah 7.00 - 10.30 saatleri arasında teslim edilir. Türkiye'de ilk kez Multinet, Sodexo, Paye, Ticket Rest. ve Metropol yemek kartlarınızla sitemizden online olarak ödeyebilirsiniz."
+						}
+					]
+				}
+			]
+		},
+		"what_for_mealbox": {
+			"title": "Neden Meal Box?",
+			"description": "Herkese uygun beslenme çözümlerimiz, lezzetli ve sağlıklı yemeklerimizle yanınızdayız!",
+			"img": "https://www.mealbox.com.tr/uploads/homepage/why-mealbox-image.jpg?v=4",
+			"tabs": [
+				{
+					"title": "TABLDOT DEĞİL RESTORAN YEMEKLERİ",
+					"description": "Yemeklerimiz klasik tabldot yemekleri değil, gurme restoran yemekleridir. (Beef Stroganoff, Kung Pao Tavuk gibi tarifler içerir.)"
+				},
+				{
+					"title": "MENÜ ÇEŞİTLİLİĞİ",
+					"description": "Her gün 4 farklı menü çıkarıyoruz / Restoran kalitesinde vejeteryan, diyet ve salata menüleri de sunabiliyoruz."
+				},
+				{
+					"title": "GÜÇLÜ REFERANSLAR",
+					"description": "Pek çok ulusal ve uluslararası firmanın tercihi (Referanslarımızı \"Kurumsal Yemek Çözümleri\" sayfamızda bulabilirsiniz.)"
+				},
+				{
+					"title": "KALİTELİ / MARKALI MALZEME KULLANIMI",
+					"description": "Üretimlerimizde sadece kategorisinde pazar lideri ya da ikincisi olan gıda markalarını kullanıyoruz."
+				},
+				{
+					"title": "ŞEFFAFLIK",
+					"description": "7/24 denetime açık mutfaklarımız / Gıda mühendisimize kolay ve hızlı erişim"
+				},
+				{
+					"title": "DİJİTAL MÜŞTERİ DENEYİMİ",
+					"description": "Dijital arayüzlerle kolay-hızlı hizmet (kişi sayısı değişiklikleri, menü seçimlerini kolayca kendiniz yapabilirsiniz)"
+				}
+			]
+		}
+	}
+]

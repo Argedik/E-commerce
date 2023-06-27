@@ -35,10 +35,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, '../front-end')));
 
 var corsOptions = {
-  origin: 'http://localhost:8080',
-  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
-}
-
+	origin: 'http://localhost:8080',
+	optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+};
 
 console.log('server calisti');
 // Routes
