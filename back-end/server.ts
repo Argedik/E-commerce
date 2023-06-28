@@ -36,7 +36,7 @@ app.use(express.static(path.join(__dirname, '../front-end')));
 
 var corsOptions = {
 	origin: 'http://localhost:8080',
-	optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+	optionsSuccessStatus: 200,
 };
 
 console.log('server calisti');
