@@ -9,7 +9,7 @@
 // 	process.env.DB_USER!,
 // 	process.env.DB_PASS!,
 // 	{
-// 		host: process.env.DB_HOST,
+// 		host: process.env.dsdDB_HOST,
 // 		dialect: 'postgres',
 // 	}
 // );
