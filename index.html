@@ -19,7 +19,6 @@
 			integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
 			crossorigin="anonymous"
 		/>
-		<!-- <script type="text/javascript" src="https://livejs.com/live.js"></script> -->
 	</head>
 	<body>
 		<header>
@@ -100,5 +99,14 @@
 			integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
 			crossorigin="anonymous"
 		></script>
+
+		<script>
+			console.log('test');
+			function fetchData() {
+				fetch('http://localhost:3000/getdata')
+					.then((response) => response.json())
+					.then((data) => console.log(data));
+			}
+		</script>
 	</body>
 </html>
